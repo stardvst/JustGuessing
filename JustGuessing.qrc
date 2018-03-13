@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="app_logo">icons/app_logo.png</file>
+        <file alias="transparent">icons/transparent.png</file>
+    </qresource>
+    <qresource prefix="/burger">
+        <file alias="burger_0">icons/burger/burger_0.png</file>
+        <file alias="burger_1">icons/burger/burger_1.png</file>
+        <file alias="burger_2">icons/burger/burger_2.png</file>
+        <file alias="burger_3">icons/burger/burger_3.png</file>
+        <file alias="burger_4">icons/burger/burger_4.png</file>
+        <file alias="burger_5">icons/burger/burger_5.png</file>
+    </qresource>
+    <qresource prefix="/computer">
+        <file alias="computer_0">icons/computer/computer_0.png</file>
+        <file alias="computer_1">icons/computer/computer_1.png</file>
+        <file alias="computer_2">icons/computer/computer_2.png</file>
+        <file alias="computer_3">icons/computer/computer_3.png</file>
+        <file alias="computer_4">icons/computer/computer_4.png</file>
+        <file alias="computer_5">icons/computer/computer_5.png</file>
+    </qresource>
+    <qresource prefix="/car">
+        <file alias="tachka_0">icons/cars/tachka_0.png</file>
+        <file alias="tachka_1">icons/cars/tachka_1.png</file>
+        <file alias="tachka_2">icons/cars/tachka_2.png</file>
+        <file alias="tachka_3">icons/cars/tachka_3.png</file>
+        <file alias="tachka_4">icons/cars/tachka_4.png</file>
+        <file alias="tachka_5">icons/cars/tachka_5.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file alias="map_0">icons/map/map_0.png</file>
+        <file alias="map_1">icons/map/map_1.png</file>
+        <file alias="map_2">icons/map/map_2.png</file>
+        <file alias="map_3">icons/map/map_3.png</file>
+        <file alias="map_4">icons/map/map_4.png</file>
+        <file alias="map_5">icons/map/map_5.png</file>
+    </qresource>
+    <qresource prefix="/controls">
+        <file alias="star">icons/controls/star.png</file>
+        <file alias="help">icons/controls/help.png</file>
+        <file alias="whats_this">icons/controls/whats_this.png</file>
+        <file alias="heart">icons/controls/heart.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file alias="right">sounds/right.wav</file>
+        <file alias="wrong">sounds/wrong.wav</file>
+        <file alias="win">sounds/win.wav</file>
+        <file alias="lose">sounds/lose.wav</file>
+    </qresource>
+</RCC>
